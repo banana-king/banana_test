@@ -4,9 +4,9 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title></title>
     </head>
-    <body>
         <?php
         // put your code here
         ?>
-    </body>
+今日を削除
+行を追加    
 </html>
